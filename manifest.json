@@ -2,17 +2,18 @@
     "format_version": 2,
     "header": {
         "description": "All Rights Reserved\nCopyright (c) 2025 fixyldev",
-        "name": "Invisible Armor Model - 1.21.111",
+        "name": "Invisible Armor Model - 1.21.130",
         "uuid": "c51c05da-b3c0-4ed5-8f8d-4d904d2ee79f",
-        "version": [1, 21, 111],
-        "min_engine_version": [1, 21, 111]
+        "version": [1, 21, 130],
+        "min_engine_version": [1, 21, 130]
     },
     "modules": [
         {
             "description": "All Rights Reserved\nCopyright (c) 2025 fixyldev",
             "type": "resources",
             "uuid": "e8090db6-a877-474c-b0ec-c759dbd6b238",
-            "version": [1, 21, 111]
+            "version": [1, 21, 130]
         }
-    ]
+    ],
+    "capabilities": ["pbr"]
 }
