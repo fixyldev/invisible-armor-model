@@ -4,6 +4,11 @@
             {
                 "texture": "minecraft:copper"
             }
+        ],
+        "nautilus_body": [
+            {
+                "texture": "minecraft:copper"
+            }
         ]
     }
 }

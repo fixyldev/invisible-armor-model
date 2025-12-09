@@ -1,3 +1,14 @@
 {
-    "layers": {}
+    "layers": {
+        "horse_body": [
+            {
+                "texture": "minecraft:netherite"
+            }
+        ],
+        "nautilus_body": [
+            {
+                "texture": "minecraft:netherite"
+            }
+        ]
+    }
 }

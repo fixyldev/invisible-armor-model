@@ -4,6 +4,11 @@
             {
                 "texture": "minecraft:gold"
             }
+        ],
+        "nautilus_body": [
+            {
+                "texture": "minecraft:gold"
+            }
         ]
     }
 }
