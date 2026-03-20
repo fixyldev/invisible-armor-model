@@ -1,6 +1,6 @@
 # Invisible Armor Model
 
-[![Passively Maintained](https://img.shields.io/badge/status-passively_maintained-yellowgreen?style=for-the-badge)](https://github.com/fixyldev/fixyldev/blob/main/STATUS.md#passively-maintained)
+[![Passively Maintained](https://img.shields.io/badge/status-passively_maintained-yellowgreen?style=for-the-badge)](https://github.com/fixyldev/fixyldev/blob/HEAD/STATUS.md#passively-maintained)
 [![Modrinth](https://img.shields.io/modrinth/dt/yd1iJerO?style=for-the-badge&logo=modrinth&labelColor=gray&color=00af5c&label)](https://modrinth.com/resourcepack/invisible-armor-model)
 [![CurseForge](https://img.shields.io/curseforge/dt/546854?style=for-the-badge&logo=curseforge&labelColor=gray&color=f16436&label)](https://curseforge.com/minecraft/texture-packs/invisible-armor-model)
 [![Latest](https://img.shields.io/modrinth/game-versions/yd1iJerO?style=for-the-badge&label=latest)](https://modrinth.com/resourcepack/invisible-armor-model/versions)
