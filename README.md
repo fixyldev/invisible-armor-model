@@ -7,14 +7,11 @@
 [![Banner](images/banner.webp)](https://modrinth.com/resourcepack/invisible-armor-model)
 
 ## 📥 Download
-### Java Edition:
 [<img src="https://github.com/fixyldev/fixyldev/blob/main/download/modrinth.svg" height="80">](https://modrinth.com/resourcepack/invisible-armor-model)
 [<img src="https://github.com/fixyldev/fixyldev/blob/main/download/curseforge.svg" height="80">](https://curseforge.com/minecraft/texture-packs/invisible-armor-model)
-### Bedrock Edition:
-[<img src="https://github.com/fixyldev/fixyldev/blob/main/download/curseforge.svg" height="80">](https://curseforge.com/minecraft-bedrock/addons/invisible-armor-model)
 
 ## 🗒️ Description
-Invisible Armor Model is a resource pack for Minecraft Java and Bedrock Edition that removes the visual model of armor. This includes every vanilla armor, except elytras and turtle shells. Keep in mind that other players may still be able to see armors as usual, since resource packs are client-side. For Minecraft versions below 1.21.2, armor trims on turtle shells will be invisible as well, and capes may float mid-air if you're wearing a chestplate. These issues are no longer present for Minecraft versions 1.21.2 and above, and were due to limitations of resource packs.
+Invisible Armor Model is a resource pack for Minecraft Java Edition that removes the visual model of armor. This includes every vanilla armor, except elytras and turtle shells. Keep in mind that other players may still be able to see armors as usual, since resource packs are client-side. For Minecraft versions below 1.21.2, armor trims on turtle shells will be invisible as well, and capes may float mid-air if you're wearing a chestplate. These issues are no longer present for Minecraft versions 1.21.2 and above, and were due to limitations of resource packs.
 
 ## ✨ Features
 - Removes the visual model of vanilla armor (making them invisible)
