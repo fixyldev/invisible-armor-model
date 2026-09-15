@@ -10,5 +10,13 @@
                 "texture": "minecraft:diamond"
             }
         ]
-    }
+    },
+    "trim_overrides": [
+        {
+            "palette": "minecraft:trim/diamond_darker",
+            "when": {
+                "material": "minecraft:diamond"
+            }
+        }
+    ]
 }
